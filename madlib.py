@@ -1,0 +1,8 @@
+sehir=input("Sehir adi giriniz: \n")
+renk=input("Renk adi giriniz: \n")
+hayvan=input("Hayvan adi giriniz: \n")
+sifat=input("Sifat giriniz: \n")
+sayi=input("Sayi giriniz: \n")
+eylem1=input("Eylem giriniz: \n")
+eylem2=input("Eylem giriniz: \n")
+print("Bugün "+sehir+" sehrinde "+renk+" renginde bir "+hayvan+" gordum. Bu "+hayvan+" cok "+sifat+" idi ve "+sayi+" kez "+eylem1+" yapti. Ben de onun yanina gidip onunla beraber "+eylem2+" yapmaya basladim.")
